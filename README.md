@@ -1,4 +1,4 @@
-### Lev Spiridonov (the Levasoft developer)
+## Lev Spiridonov (the Levasoft developer)
 Developer of Levasoft and Monyasoft.
 
 Professions:
@@ -6,5 +6,8 @@ Professions:
 + Repairer
 + Developer
 + Tester
+
+Sponsors:
++ MonyaTechnik (https://github.com/MonyaTechnik)
 
 See you! 👋
