@@ -9,5 +9,3 @@ Professions:
 
 Sponsors:
 + MonyaTechnik (https://github.com/MonyaTechnik)
-
-See you! 👋
