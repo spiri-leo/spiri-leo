@@ -12,7 +12,7 @@ Sponsors:
 
 Stats:
 <p align="center">
-<a href="https://github.com/chirag127"><img src="https://github-profile-trophy.vercel.app/?username=spiri-leo" "></a>
+<a href="https://github.com/spiri-leo"><img src="https://github-profile-trophy.vercel.app/?username=spiri-leo" "></a>
 </p>
 
 <p align="center">
