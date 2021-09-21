@@ -1,5 +1,5 @@
-## Lev Spiridonov (the Levasoft developer)
-Developer of Levasoft and Monyasoft.
+## Hi i dev!
+I fixing and more!
 
 Professions:
 + Programmer
