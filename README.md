@@ -1,14 +1,11 @@
-## Hi i dev!
-I fixing and more!
+## Hi i spiri!
+I filter developer of spiri-list.
 
 Professions:
 + Programmer
 + Repairer
 + Developer
 + Tester
-
-Sponsors:
-+ MonyaTechnik (https://github.com/MonyaTechnik)
 
 Stats:
 <p align="center">
