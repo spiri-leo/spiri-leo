@@ -1,5 +1,4 @@
-## Hi i spiri!
-I filter developer of spiri-list.
+## Welcome to my profile
 
 Professions:
 + Programmer
