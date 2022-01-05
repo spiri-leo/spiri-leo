@@ -15,4 +15,6 @@ Stats:
 <a href="https://github.com/spiri-leo"><img src="https://github-readme-stats.vercel.app/api?username=spiri-leo&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=material-palenight"></a>
 </p>
 
-<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiri-leo&show_icons=true&locale=en&layout=compact&theme=material-palenight"/></p>
+
+Profile views
+![profileviews](https://profile-counter.glitch.me/spiri-leo/count.svg)
