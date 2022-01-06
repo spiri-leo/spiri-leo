@@ -7,13 +7,8 @@ Professions:
 + Tester
 
 Stats:
-<p align="center">
-<a href="https://github.com/spiri-leo"><img src="https://github-profile-trophy.vercel.app/?username=spiri-leo&theme=onedark" "></a>
-</p>
 
-<p align="center">
-<a href="https://github.com/spiri-leo"><img src="https://github-readme-stats.vercel.app/api?username=spiri-leo&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=material-palenight"></a>
-</p>
+![Metrics](https://metrics.lecoq.io/spiri-leo?template=classic&people=1&achievements=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FYekaterinburg)
 
 
 Profile views
