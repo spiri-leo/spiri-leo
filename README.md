@@ -13,7 +13,8 @@ $ info
   gitlab: https://gitlab.com/spiri-leo
   reddit: https://reddit.com/u/spiri-leo 
   professions: programmer, tester, developer
-    
+  owner of: securityentire (https://github.com/securityentire)
+  working every day on repo: adguard filters (https://github.com/AdguardTeam/AdguardFilters)
     
     
     
