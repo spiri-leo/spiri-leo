@@ -6,16 +6,16 @@ Terminal <a href="https://github.com/"><img align="right" src="https://user-imag
 
 ```
 $ info
-  web: https://spiri-leo.netlify.app/en.html
-  email: spiridonowlev@yandex.com
-  skills: html, css, batchfile
-  github: https://github.com/spiri-leo
-  gitlab: https://gitlab.com/spiri-leo
-  reddit: https://reddit.com/u/spiri-leo 
-  mastodon (russian): https://mastodon.ml/@spirigitleo
-  professions: programmer, tester, developer, security researcher
-  owner of: securityentire (https://github.com/securityentire)
-  working every day on repo: adguard filters (https://github.com/AdguardTeam/AdguardFilters)
+  - web: https://spiri-leo.netlify.app/en.html
+  - email: spiridonowlev@yandex.com
+  - skills: html, css, batchfile
+  - github: https://github.com/spiri-leo
+  - gitlab: https://gitlab.com/spiri-leo
+  - reddit: https://reddit.com/u/spiri-leo 
+  - mastodon (russian): https://mastodon.ml/@spirigitleo
+  - professions: programmer, tester, developer, security researcher
+  - owner of: securityentire (https://github.com/securityentire)
+  - working every day on repo: adguard filters (https://github.com/AdguardTeam/AdguardFilters)
     
     
     
