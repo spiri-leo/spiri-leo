@@ -7,7 +7,6 @@ Terminal <a href="https://github.com/"><img align="right" src="https://user-imag
 ```
 $ info
   - web: https://spiri-leo.netlify.app/en.html
-  - email: spiridonowlev@yandex.com
   - skills: html, css, php, batchfile
   - github: https://github.com/spiri-leo
   - gitlab: https://gitlab.com/spiri-leo
@@ -17,6 +16,7 @@ $ info
   - owner of: securityentire (https://github.com/securityentire)
 
 
+    
     
     
     
