@@ -7,7 +7,7 @@ Terminal <a href="https://github.com/"><img align="right" src="https://user-imag
 ```
 $ info
   - web: https://spiri-leo.netlify.app/en.html
-  - web : https://spiri-leo.alwaysdata.net/ (rus)
+  - web: https://spiri-leo.alwaysdata.net/ (rus)
   - skills: html, css, php, batchfile
   - github: https://github.com/spiri-leo
   - gitlab: https://gitlab.com/spiri-leo
